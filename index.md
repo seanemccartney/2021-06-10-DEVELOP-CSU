@@ -10,7 +10,7 @@ language: "en"     # lowercase two-letter ISO language code such as "fr" (see ht
 latitude: "38.992541"        # decimal latitude of workshop venue (use https://www.latlong.net/)
 longitude: "-76.839594"       # decimal longitude of the workshop venue (use https://www.latlong.net)
 humandate: "June 10 - 21, 2021"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "12:00 pm - 3:00 pm (<a href="http://swcarpentry.github.io/shell-novice/">Unix</a>), 3:00 - 5:00 pm (Python & R), 1:00 pm - 4:00 pm (Git)"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
+humantime: "12:00 pm - 3:00 pm (Unix), 3:00 - 5:00 pm (Python & R), 1:00 pm - 4:00 pm (Git)"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2021-06-10      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2021-06-21        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Ryan Avery", "Britnay Beaudry", "Erica Carcelen", "Dan Carver", "Katie Dejwakh", "John Dilger", "Darcy Gray", "Adriana Le Compte", "Sean McCartney", "Hayley Pippin", "Kenton Ross", "Makhan Virdi"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
